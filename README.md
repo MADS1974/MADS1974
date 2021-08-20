@@ -1,4 +1,4 @@
-### Hi there 👋
+### Salve Rapaziada! Estou aqui para adquirir conhecimento, e quando conseguir, repassar para todos 😄 👋
 
 <!--
 **MADS1974/MADS1974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
