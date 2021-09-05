@@ -28,8 +28,10 @@
  <a href="mailto:deejaykbello@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target="_blank"></a>
  <a href="https://www.youtube.com/DeejayKbello" target="_blank"><img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" target="_blank"></a>
 
-
-
+#
+ 
+<div>
+  <a href="https://github.com/MADS1974/" target="_blank"><img src="https://github.com/MADS1974/D-I-O/blob/master/EU%20GIT.png?raw=true" target="_blank"></a> 
 
 
  
