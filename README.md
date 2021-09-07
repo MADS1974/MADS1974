@@ -32,7 +32,11 @@
 #
  
 <div>
-  <a href="https://github.com/MADS1974/" target="_blank"><img src="https://github.com/MADS1974/D-I-O/blob/master/EU%20GIT.png?raw=true" target="_blank"></a> 
+ 
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/86740964/132385182-a2004a67-518c-4698-af1f-d9f5f73b08ed.gif)
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/86740964/132384032-335b7599-62c3-4459-97c7-f74daa563170.gif)
+
 
 
  
