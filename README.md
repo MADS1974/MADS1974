@@ -36,7 +36,6 @@
  
  ![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/86740964/132385838-d81395d3-f78b-46fa-aeca-7c34eb1c6183.gif)
 
- ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/86740964/132385411-37d0a601-f76b-4f7c-a3fb-d20cee4dd998.gif)
 
 
 
