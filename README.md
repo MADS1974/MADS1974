@@ -3,7 +3,7 @@
   <a href="https://github.com/MADS1974">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MADS1974&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MADS1974&layout=compact&langs_count=7&theme=dark"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MADS1974&theme=blue-green"/>
 </div>
 <div style="display: inline_block"><br>
 
@@ -36,7 +36,7 @@
  <a href="https://github.com/MADS1974" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank"></a>
  <a href="https://github.com/MADS1974" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" target="_blank"></a>
   <a href="https://github.com/MADS1974" target="_blank"><img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" target="_blank"></a>
-
+<a href="https://github.com/MADS1974" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a>
  
 #
  
